@@ -11,5 +11,6 @@ public class Ferda {
     // ferda 3 ekledi
     //ferda 4
     //freda5
+    //ferda6
 
 }
