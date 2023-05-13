@@ -7,4 +7,6 @@ public class Ferda {
     // ferda 1 ekledi
 
     //ferda 2 ekledi
+
+    // ferda 3 ekledi
 }
